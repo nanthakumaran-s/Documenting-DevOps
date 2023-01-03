@@ -1,3 +1,5 @@
-# Documenting DevOps
+<h1 align="center">Documenting DevOps </h1>
 
-### Compiled all the things I learned and learning about DevOps.
+<p align="center">Compiled all the things I learned and learning about DevOps.</p>
+
+### Networking
