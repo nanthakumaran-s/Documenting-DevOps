@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/nanthakumaran-s/Documenting-DevOps/compare/v0.2.0...v0.3.0) (2023-01-14)
+
+
+### Features
+
+* add OSI Model in Networking ([9811030](https://github.com/nanthakumaran-s/Documenting-DevOps/commit/9811030d271aa687641596c42224b8a9593d85c1))
+
+
+
 # [0.2.0](https://github.com/nanthakumaran-s/Documenting-DevOps/compare/v0.1.0...v0.2.0) (2023-01-03)
 
 
