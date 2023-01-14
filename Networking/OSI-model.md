@@ -14,7 +14,7 @@ It enables users to access the network. It provides support for services such as
 - SMTP (Simple Mail Transfer Protocol)
 - DNS (Domain Name System)
 - FTP (File Transfer Protocol)
-- TELNET (Telephone Network)
+- TELNET (Teletype Network)
 - SSH (Secure Shell)
 
 > Process to Process Communication
