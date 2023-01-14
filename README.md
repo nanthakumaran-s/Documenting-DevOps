@@ -3,3 +3,5 @@
 <p align="center">Compiled all the things I learned and learning about DevOps.</p>
 
 ### Networking
+
+- [OSI Model](Networking/OSI-model.md)
